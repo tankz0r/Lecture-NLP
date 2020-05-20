@@ -23,7 +23,7 @@ future==0.16.0
 gensim==3.1.0
 HeapDict==1.0.0
 html5lib==0.9999999
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 ipaddress==1.0.18
 ipykernel==4.6.1
