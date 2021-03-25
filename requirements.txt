@@ -76,7 +76,7 @@ python-debian==0.1.30
 python-debianbts==2.6.1
 pytz==2017.3
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 reportbug==7.1.7
 reportlab==3.3.0
