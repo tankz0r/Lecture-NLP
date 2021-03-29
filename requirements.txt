@@ -62,7 +62,7 @@ pyasn1==0.4.2
 pycrypto==2.6.1
 pycups==1.9.73
 pycurl==7.43.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
