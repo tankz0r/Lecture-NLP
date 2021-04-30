@@ -81,7 +81,7 @@ pyzmq==16.0.3
 reportbug==7.1.7
 reportlab==3.3.0
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.1.12
 scandir==1.5
 scikit-learn==0.19.0
